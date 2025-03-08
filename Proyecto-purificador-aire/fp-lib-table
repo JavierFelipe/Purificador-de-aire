@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "devkitesp-32")(type "KiCad")(uri "${KIPRJMOD}/Librerías/devkit-esp32-v1")(options "")(descr ""))
+  (lib (name "mq-7")(type "KiCad")(uri "${KIPRJMOD}/Librerías/mq-7-sensor")(options "")(descr ""))
+)

@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "devkit-esp32")(type "KiCad")(uri "${KIPRJMOD}/Librerías/devkit-esp32-v1/ESP32-DEVKIT-V1.kicad_sym")(options "")(descr ""))
+  (lib (name "mq-7")(type "KiCad")(uri "${KIPRJMOD}/Librerías/mq-7-sensor/MQ-7.kicad_sym")(options "")(descr ""))
+  (lib (name "pantalla-oled")(type "KiCad")(uri "${KIPRJMOD}/Librerías/pantalla-oled/DM-OLED096-636.kicad_sym")(options "")(descr ""))
+)
